@@ -1,4 +1,4 @@
-<?php require_once 'GetData.php';?>
+<?php require_once 'GetData1.php';?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if !IE]><!-->
@@ -85,7 +85,7 @@
 					<li class="has-sub">
 						<a href="#">
 							<span class="nav-icon"><i class="fa fa-user-md w3-text-purple fa-2x"></i> </span>
-							<span class="nav-text">Total Cases <span class="nav-label  w3-text-purple"><?= Data(403,'TotalCases',$data);?></span></span>
+							<span class="nav-text">Total Cases <span class="nav-label  w3-text-purple"><?= Data(0   ,'TotalCases',$data);?></span></span>
 							
 						</a>
 						
@@ -94,7 +94,7 @@
 					<li class="has-sub">
 						<a href="#">
 							<span class="nav-icon"><i class="fa fa-meh w3-text-red fa-2x"></i> </span>
-							<span class="nav-text">TotalDeaths <span class="nav-label  w3-text-red"><?= Data(403,'TotalDeaths',$data);?></span></span>
+							<span class="nav-text">TotalDeaths <span class="nav-label  w3-text-red"><?= Data(0,'TotalDeaths',$data);?></span></span>
 							
 						</a>
 						
@@ -102,7 +102,7 @@
 					<li class="has-sub">
 						<a href="#">
 							<span class="nav-icon"><i class="fa fa-smile  w3-text-green fa-2x"></i> </span>
-							<span class="nav-text">TotalRecovered <span class="nav-label w3-text-green"><?= Data(403,'TotalRecovered',$data);?></span></span>
+							<span class="nav-text">TotalRecovered <span class="nav-label w3-text-green"><?= Data(0,'TotalRecovered',$data);?></span></span>
 							
 						</a>
 						
@@ -110,7 +110,7 @@
 					<li class="has-sub">
 						<a href="#">
 							<span class="nav-icon"><i class="fa fa-ambulance w3-text-blue fa-2x"></i> </span>
-							<span class="nav-text">NewCases <span class="nav-label w3-text-blue"><?= Data(403,'NewCases',$data);?></span></span>
+							<span class="nav-text">NewCases <span class="nav-label w3-text-blue"><?= Data(0,'NewCases',$data);?></span></span>
 						
 						</a>
 						
