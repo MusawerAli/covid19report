@@ -103,6 +103,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(2,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(2,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(2,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(2,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(2,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -119,6 +121,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(3,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(3,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(3,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(3,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(3,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -138,6 +142,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(5,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(5,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(5,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(5,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(5,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -154,6 +160,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(6,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(6,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(6,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(6,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(6,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -175,6 +183,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(4,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(4,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(4,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(4,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(4,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -191,6 +201,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(7,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(7,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(7,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(7,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(7,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -218,6 +230,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(8,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(8,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(8,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(8,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(8,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -234,6 +248,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(1,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(1,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(1,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(1,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(1,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -254,6 +270,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(11,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(11,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(11,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(11,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(11,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -270,6 +288,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(12,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(12,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(12,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(12,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(12,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -292,6 +312,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(9,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(9,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(9,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(9,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(9,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
@@ -308,6 +330,8 @@
 									<h4 class="widget-title widget-title-inverse  f-s-20 m-b-5">Total Cases: <?= Data(10,'TotalCases',$data);?></h4>
 									<h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-green">Recover Paitent:  <span class="d-none d-md-inline"></span><?= Data(10,'TotalRecovered',$data);?></h4>
                                     <h4 class="widget-title f-s-20 m-b-5 widget-title-inverse w3-text-red">Death Paitent:  <span class="d-none d-md-inline"></span><?= Data(10,'TotalDeaths',$data);?></h4>
+									<div class="widget-stats-title f-s-18 w3-text-orange">Today Cases: <?= Data(10,'NewCases',$data);?></div>
+									<div class="widget-stats-title f-s-18 w3-text-pink">Today Deaths: <?= Data(10,'NewDeaths',$data);?></div>
 								</div>
 							</a>
 							<!-- END widget-card -->
