@@ -7,6 +7,9 @@
 			<h1 class="page-header">
 			COVID-19 Cases <small>All over world</small>
 			</h1>
+			<h1 class="page-header">
+			Updated at:  <small class="w3-code w3-text-red">Sun Mar 29, 08:43 AM</small>
+			</h1>
 			<!-- END page-header -->
 			<div class="row">
 				<!-- BEGIN col-6 -->
