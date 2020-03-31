@@ -8,7 +8,7 @@
 			COVID-19 Cases <small>All over world</small>
 			</h1>
 			<h1 class="page-header">
-			Updated at:  <small class="w3-code w3-text-red">Sun Mar 3, 6:06 PM</small>
+			Updated at:  <small class="w3-code w3-text-red">Mon Mar 3, 6:06 PM</small>
 			</h1>
 			<!-- END page-header -->
 			<div class="row">
